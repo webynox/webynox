@@ -6,14 +6,14 @@
 
 ## 💡 What We Do
 - Startup Websites
-- Landing Pages
+- Full stack Websites
 - Business Websites
-- UI/UX Design
+- UI/UX Designs
 
 ---
 
 ## 🔥 Our Mission
-To help new businesses launch fast with clean and effective websites.
+To help new businesses , by launch fast with clean and effective websites.
 
 ---
 
@@ -21,12 +21,6 @@ To help new businesses launch fast with clean and effective websites.
 - 🌐 Website: https://yourwebsite.com
 - 💼 LinkedIn: [https://linkedin.com/company/yourpage](https://www.linkedin.com/company/webynox-infotech-solutions-private-limited/about/?viewAsMember=true)
 - 📸 Instagram: [https://instagram.com/yourpage](https://www.instagram.com/webynoxinfotechsolutions/)
-
----
-
-## 📂 Our Work
-- 🚀 Startup Landing Page (Coming Soon)
-- 🏢 Business Website (Coming Soon)
 
 ---
 
