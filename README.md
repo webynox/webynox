@@ -18,9 +18,9 @@ To help new businesses , by launch fast with clean and effective websites.
 ---
 
 ## 🌍 Connect With Us
-- 🌐 Website: https://yourwebsite.com
-- 💼 LinkedIn: [https://linkedin.com/company/yourpage](https://www.linkedin.com/company/webynox-infotech-solutions-private-limited/about/?viewAsMember=true)
-- 📸 Instagram: [https://instagram.com/yourpage](https://www.instagram.com/webynoxinfotechsolutions/)
+- 🌐 Website: https://webynox.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/company/webynox-infotech-solutions-private-limited/about/?viewAsMember=true
+- 📸 Instagram: https://www.instagram.com/webynoxinfotechsolutions/
 
 ---
 
