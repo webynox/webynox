@@ -25,7 +25,7 @@ To help new businesses , by launch fast with clean and effective websites.
 ---
 
 ## 📩 Contact Us
-📧 webynox02.official@email.com
+📧 webynox02.official@gmail.com
 
 ---
 
